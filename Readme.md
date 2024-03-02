@@ -10,13 +10,13 @@
   cd audio_file_delivery_server
 ```
 
-## To add the .env file
+<!-- ## To add the .env file
 
 ```bash
   nano .env
 ```
 
-## then add the environment variable PORT=3000 hit ctrl+x to escape then hit y and enter to save the file
+## then add the environment variable PORT=3000 hit ctrl+x to escape then hit y and enter to save the file -->
 
 ```bash
   npm install
